@@ -4,7 +4,7 @@ using SandboxLibrary.enums.batch1;
 using System.ComponentModel;
 using SandboxLibrary.enums.batch1.components;
 
-namespace SandboxTests
+namespace SandboxTests.EnumTests
 {
     [TestClass]
     public class CartoonCharactersTests

@@ -2,7 +2,7 @@
 using System;
 using SandboxLibrary.enums.original;
 
-namespace SandboxTests
+namespace SandboxTests.EnumTests
 {
     [TestClass]
     public class MovieEnumTests
