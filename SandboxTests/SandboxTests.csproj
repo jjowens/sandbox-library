@@ -49,11 +49,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CarModelEnumTests.cs" />
-    <Compile Include="MovieEnumTests.cs" />
+    <Compile Include="EnumTests\CarModelEnumTests.cs" />
+    <Compile Include="EnumTests\MovieEnumTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="CartoonCharactersTests.cs" />
-    <Compile Include="RandomPeopleTests.cs" />
+    <Compile Include="EnumTests\CartoonCharactersTests.cs" />
+    <Compile Include="EnumTests\RandomPeopleTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

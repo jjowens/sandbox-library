@@ -4,7 +4,7 @@ using SandboxLibrary.enums.batch2.components;
 using SandboxLibrary.enums.batch2;
 using SandboxLibrary.enums.batch1.components;
 
-namespace SandboxTests
+namespace SandboxTests.EnumTests
 {
     [TestClass]
     public class RandomPeopleTests
