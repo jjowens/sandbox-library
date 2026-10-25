@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SandboxTests/SandboxTests.csproj" Id="519b76f3-e742-4401-9d30-1db1219a8876" />
+  <Project Path="SandboxLibrary.csproj" Id="1cebe99e-77eb-48f3-9abb-b7ed845dace8" />
+</Solution>
